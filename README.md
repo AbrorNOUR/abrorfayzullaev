@@ -1,10 +1,10 @@
 # Hi I am Abror!
-Full-stack web developer based in South Korea
+Full-stack web developer based in Seoul.
 ---
 I build production-ready web applications with JavaScript, TypeScript, React, Next.js, and NestJS
 ---
 ## Project
-Baverley — modern Furniture listing platform
+**Baverley** — modern furniture listing platform
 - https://beverley.pro/
 ---
 ## Website
